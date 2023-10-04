@@ -14,7 +14,12 @@
         <tr>
             <td>1</td>
             <td>Software development process and UML</td>
-            <td><a href="https://docs.google.com/presentation/d/11IlrT5-xWoy0tUTqTvqySsDKVWZzlCWLmhqHYCUM7T8/edit?usp=sharing">Presentation</a></td>
+            <td><a href="https://docs.google.com/presentation/d/11IlrT5-xWoy0tUTqTvqySsDKVWZzlCWLmhqHYCUM7T8/edit#slide=id.g287fc05265a_0_6">Presentation</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Software requirements specifications and use-case diagramsL</td>
+            <td><a href="https://docs.google.com/presentation/d/11IlrT5-xWoy0tUTqTvqySsDKVWZzlCWLmhqHYCUM7T8/edit#slide=id.g287fc05265a_0_102">Presentation</a></td>
         </tr>
     </tbody>
 </table>
